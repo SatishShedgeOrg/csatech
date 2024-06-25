@@ -1,0 +1,2 @@
+ngrok config add-authtoken 2iKD4nmyI6JXu8ZqRfEu2NA4uNp_6M6pcqD9euNa9bgdAA5Au
+ngrok http http://127.0.0.1:5000
