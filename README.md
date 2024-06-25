@@ -32,22 +32,14 @@ Dependency review: Keeps track of the project dependency changes and their effec
 # Some of Useful links to get more details on GitHub features
 [Using GitHub's security features to secure your use of GitHub Actions](https://docs.github.com/en/actions/security-guides/using-githubs-security-features-to-secure-your-use-of-github-actions)
 
-[I'm an inline-style link](https://www.google.com)
+[REST API endpoints for secret scanning](https://docs.github.com/en/rest/secret-scanning/secret-scanning?apiVersion=2022-11-28)
 
-REST API endpoints for secret scanning
-(https://docs.github.com/en/rest/secret-scanning/secret-scanning?apiVersion=2022-11-28).
+[REST API endpoints for code scanning](https://docs.github.com/en/rest/code-scanning/code-scanning?apiVersion=2022-11-28)
 
-[REST API endpoints for code scanning]
-(https://docs.github.com/en/rest/code-scanning/code-scanning?apiVersion=2022-11-28).
+[Configuring code scanning](https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/configuring-code-scanning-for-your-appliance#prerequisites-for-code-scanning)
 
-[Configuring code scanning]
-(https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/configuring-code-scanning-for-your-appliance#prerequisites-for-code-scanning).
+[Enabling GitHub Advanced Security](https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/enabling-github-advanced-security-for-your-enterprise)
 
-[Enabling GitHub Advanced Security]
-(https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/enabling-github-advanced-security-for-your-enterprise).
+[Configuring secret scanning](https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/configuring-secret-scanning-for-your-appliance)
 
-[Configuring secret scanning]
-(https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/configuring-secret-scanning-for-your-appliance).
-
-[Enabling Dependabot]
-(https://docs.github.com/en/enterprise-server@3.3/admin/configuration/configuring-github-connect/enabling-dependabot-for-your-enterprise).
+[Enabling Dependabot](https://docs.github.com/en/enterprise-server@3.3/admin/configuration/configuring-github-connect/enabling-dependabot-for-your-enterprise)
