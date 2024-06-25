@@ -30,7 +30,7 @@ Dependency review: Keeps track of the project dependency changes and their effec
 
 
 # Some of Useful links to get more details on GitHub features
-1. [Using GitHub's security features to secure your use of GitHub Actions]
+Using GitHub's security features to [secure your use of GitHub Actions]
 (https://docs.github.com/en/actions/security-guides/using-githubs-security-features-to-secure-your-use-of-github-actions).
 
 [REST API endpoints for secret scanning]
