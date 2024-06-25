@@ -11,28 +11,8 @@ Let’s take a look at the customer scenario: "Our security team is asking for h
 - Repository Rulesets for enforcing Branch protection
 - Organization Team and events for notifying team or individual about code review
 
-Using GitHub's security features to secure your use of GitHub Actions
-https://docs.github.com/en/actions/security-guides/using-githubs-security-features-to-secure-your-use-of-github-actions
 
-REST API endpoints for secret scanning
-https://docs.github.com/en/rest/secret-scanning/secret-scanning?apiVersion=2022-11-28
-
-REST API endpoints for code scanning
-https://docs.github.com/en/rest/code-scanning/code-scanning?apiVersion=2022-11-28
-
-Configuring code scanning
-https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/configuring-code-scanning-for-your-appliance#prerequisites-for-code-scanning
-
-Enabling GitHub Advanced Security
-https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/enabling-github-advanced-security-for-your-enterprise
-
-Configuring secret scanning
-https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/configuring-secret-scanning-for-your-appliance
-
-Enabling Dependabot
-https://docs.github.com/en/enterprise-server@3.3/admin/configuration/configuring-github-connect/enabling-dependabot-for-your-enterprise
-
-GitHub Advanced Security in the software development lifecycle
+##GitHub Advanced Security in the software development lifecycle
 
 ![/Users/satishshedge/Desktop/csatech/csatech/images/SecurityAudit.png](https://github.com/SatishShedgeOrg/csatech/blob/main/images/SecurityAudit.png)
 
@@ -44,7 +24,29 @@ Now let's look at the same software development lifecycle with GitHub Advanced S
 
 In this scenario, security is set up right from the beginning through security policies at the project configuration stage. Developers are alerted of potential security issues at every step of the development process:
 
-    Code scanning: Scans at every commit and merge for potential vulnerabilities and coding errors.
-    Secret scanning: Scans at every commit and merge for tokens and private keys that were accidentally committed.
-    Dependency review: Keeps track of the project dependency changes and their effect on project security. It compares the repository manifest files to the databases of known vulnerabilities at every pull request.
+Code scanning: Scans at every commit and merge for potential vulnerabilities and coding errors.
+Secret scanning: Scans at every commit and merge for tokens and private keys that were accidentally committed.
+Dependency review: Keeps track of the project dependency changes and their effect on project security. It compares the repository manifest files to the databases of known vulnerabilities at every pull request.
 
+
+##Some of Useful links to get more details on GitHub features
+[Using GitHub's security features to secure your use of GitHub Actions]
+(https://docs.github.com/en/actions/security-guides/using-githubs-security-features-to-secure-your-use-of-github-actions).
+
+[REST API endpoints for secret scanning]
+(https://docs.github.com/en/rest/secret-scanning/secret-scanning?apiVersion=2022-11-28).
+
+[REST API endpoints for code scanning]
+(https://docs.github.com/en/rest/code-scanning/code-scanning?apiVersion=2022-11-28).
+
+[Configuring code scanning]
+(https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/configuring-code-scanning-for-your-appliance#prerequisites-for-code-scanning).
+
+[Enabling GitHub Advanced Security]
+(https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/enabling-github-advanced-security-for-your-enterprise).
+
+[Configuring secret scanning]
+(https://docs.github.com/en/enterprise-server@3.3/admin/code-security/managing-github-advanced-security-for-your-enterprise/configuring-secret-scanning-for-your-appliance).
+
+[Enabling Dependabot]
+(https://docs.github.com/en/enterprise-server@3.3/admin/configuration/configuring-github-connect/enabling-dependabot-for-your-enterprise).
