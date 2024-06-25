@@ -12,7 +12,7 @@ Let’s take a look at the customer scenario: "Our security team is asking for h
 - Organization Team and events for notifying team or individual about code review
 
 
-##GitHub Advanced Security in the software development lifecycle
+# GitHub Advanced Security in the software development lifecycle
 
 ![/Users/satishshedge/Desktop/csatech/csatech/images/SecurityAudit.png](https://github.com/SatishShedgeOrg/csatech/blob/main/images/SecurityAudit.png)
 
@@ -29,8 +29,8 @@ Secret scanning: Scans at every commit and merge for tokens and private keys tha
 Dependency review: Keeps track of the project dependency changes and their effect on project security. It compares the repository manifest files to the databases of known vulnerabilities at every pull request.
 
 
-##Some of Useful links to get more details on GitHub features
-[Using GitHub's security features to secure your use of GitHub Actions]
+# Some of Useful links to get more details on GitHub features
+1. [Using GitHub's security features to secure your use of GitHub Actions]
 (https://docs.github.com/en/actions/security-guides/using-githubs-security-features-to-secure-your-use-of-github-actions).
 
 [REST API endpoints for secret scanning]
