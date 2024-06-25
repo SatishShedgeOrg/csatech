@@ -34,11 +34,13 @@ https://docs.github.com/en/enterprise-server@3.3/admin/configuration/configuring
 
 GitHub Advanced Security in the software development lifecycle
 
-/Users/satishshedge/Desktop/csatech/csatech/images/SecurityAudit.png
+![/Users/satishshedge/Desktop/csatech/csatech/images/SecurityAudit.png](https://github.com/SatishShedgeOrg/csatech/blob/main/images/SecurityAudit.png)
+
 This example illustrates a traditional security as a gate approach in which a single security test or a series of security tests take place during the quality-assurance phase. In this scenario, security usually ends up being a bottleneck to shipping the software. This situation is what your company wants to fix by shifting security left.
 
 Now let's look at the same software development lifecycle with GitHub Advanced Security.
-/Users/satishshedge/Desktop/csatech/csatech/images/Security.png
+
+![/Users/satishshedge/Desktop/csatech/csatech/images/Security.png](https://github.com/SatishShedgeOrg/csatech/blob/main/images/Security.png)
 
 In this scenario, security is set up right from the beginning through security policies at the project configuration stage. Developers are alerted of potential security issues at every step of the development process:
 
