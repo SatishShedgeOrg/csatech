@@ -21,7 +21,7 @@ This example illustrates a traditional security as a gate approach in which a si
 
 Now let's look at the same software development lifecycle with GitHub Advanced Security.
 
-![/Users/satishshedge/Desktop/csatech/csatech/images/Security.png](https://github.com/SatishShedgeOrg/csatech/blob/main/images/Target.png)
+![/Users/satishshedge/Desktop/csatech/csatech/images/Security.png](https://github.com/SatishShedgeOrg/csatech/blob/main/images/Security.png)
 
 In this scenario, security is set up right from the beginning through security policies at the project configuration stage. Developers are alerted of potential security issues at every step of the development process:
 
