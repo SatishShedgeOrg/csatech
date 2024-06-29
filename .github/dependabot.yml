@@ -1,6 +1,11 @@
 version: 2
 updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
+  - package-ecosystem: "terraform"
+    directory: "/terraformcode"
     schedule:
-      interval: "monthly"
+      interval: "daily"
+      time: "09:00"
+      timezone: "Asia/Kolkata"
+    open-pull-requests-limit: 10 
+    allow:
+      - dependency-type: "all"
